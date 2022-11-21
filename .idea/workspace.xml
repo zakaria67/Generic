@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c162c550-f326-4957-b547-dc42a8cc5e3d" name="Changes" comment="" />
+    <list default="true" id="c162c550-f326-4957-b547-dc42a8cc5e3d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/animals/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/animals/Lion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/animals/LionApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/animals/LionApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/duos/DifferntDuo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/duos/DifferntDuo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/duos/Duo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/duos/Duo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/duos/DuoApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/duos/DuoApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/duos/IntDuo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/duos/IntDuo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/optionals/PeopleApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/optionals/PeopleApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/optionals/PersonRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/optionals/PersonRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/optionals/Personn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/optionals/Personn.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HqgrDoNv2TqLhroloLoVX6Pqw6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +41,77 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="be.intecbrussel.duos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DuoApp">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.intecbrussel.App" />
+      <module name="Generic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.intecbrussel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DuoApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.intecbrussel.duos.DuoApp" />
+      <module name="Generic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.intecbrussel.duos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LionApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.intecbrussel.animals.LionApp" />
+      <module name="Generic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.intecbrussel.animals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PeopleApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="be.intecbrussel.optionals.PeopleApp" />
+      <module name="Generic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="be.intecbrussel.optionals.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DuoApp" />
+        <item itemvalue="Application.PeopleApp" />
+        <item itemvalue="Application.LionApp" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +122,16 @@
       <updated>1669018228503</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
